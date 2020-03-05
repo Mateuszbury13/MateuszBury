@@ -5,4 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-def qqscc 
+def test():
+    print("test")
+    print("test2")
+    print("test3")
